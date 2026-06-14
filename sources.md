@@ -12,13 +12,19 @@ Here is a curated list of 10 high-signal experts, creators, and podcast hosts wh
 
 **2. Dave Gerhardt**
 - **Role/Background:** Founder of Exit Five (the largest community for B2B marketers) and former CMO at Drift.
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/davegerhardt/) / Podcast (Exit Five Podcast)
+- **Data Collection Window:** April 15, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Dave Gerhardt specializes in "brand as a moat" for B2B SaaS. His content focuses on how consistent organic positioning drives long-term inbound pipeline.
 - **Why to Follow:** The undisputed champion of "brand as a moat" in B2B SaaS. He teaches how positioning, voice, and consistent organic posting on LinkedIn drive massive inbound pipeline.
-- **Platform:** LinkedIn / Podcast (Exit Five Podcast)
 
 **3. Tommy Clark**
-- **Role/Background:** Founder of Clark Media, a dedicated B2B social media agency.
+- **Role/Background:** Founder of Compound Content Studio, a dedicated B2B social media agency.
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/tclarkmedia/) / Newsletter
+- **Data Collection Window:** May 1, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Tommy Clark is a daily practitioner sharing highly tactical breakdowns of what specific post formats, text hooks, and PDF carousels are currently favored by the LinkedIn algorithm.
 - **Why to Follow:** Tommy posts daily breakdowns of exactly what post formats, Hooks, and carousel structures are working right now on LinkedIn for SaaS operators.
-- **Platform:** LinkedIn / Newsletter
 
 **4. Peep Laja**
 - **Role/Background:** Founder of Wynter, Speero, and CXL.
