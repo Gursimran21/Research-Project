@@ -28,13 +28,19 @@ Here is a curated list of 10 high-signal experts, creators, and podcast hosts wh
 
 **4. Peep Laja**
 - **Role/Background:** Founder of Wynter, Speero, and CXL.
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/peeplaja/) / Podcast (How to Win)
+- **Data Collection Window:** May 1, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Peep Laja offers contrarian takes on B2B marketing. His data explores how founder-led content and organic narrative-building help SaaS brands stand out in crowded markets.
 - **Why to Follow:** Known for his unfiltered, contrarian takes on B2B marketing. He shares first-hand data on how founder-led content and organic narrative building give SaaS brands a competitive edge.
-- **Platform:** LinkedIn / Podcast (How to Win)
 
 **5. Brendan Hufford**
 - **Role/Background:** Founder of Growth Sprints.
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/brendanhufford/) / [YouTube Channel](https://www.youtube.com/c/brendanhufford)
+- **Data Collection Window:** April 1, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Brendan Hufford focuses on blending organic LinkedIn content into an omni-channel SaaS growth flywheel alongside SEO and email marketing.
 - **Why to Follow:** Brendan focuses heavily on integrating LinkedIn organic content as a primary pillar within a broader SaaS growth engine (alongside SEO and newsletters). He bridges the gap between social engagement and the CRM pipeline.
-- **Platform:** LinkedIn / YouTube
 
 **6. Sara Stella Lattanzio**
 - **Role/Background:** Independent B2B Content Marketing Advisor.
