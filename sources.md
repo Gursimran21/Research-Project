@@ -52,7 +52,7 @@ Here is a curated list of 10 high-signal experts, creators, and podcast hosts wh
 
 **7. Diandra Escobar**
 - **Role/Background:** Founder of Distinctiva (LinkedIn ghostwriting and content strategy practice for SaaS executives).
-- **Platform:** LinkedIn
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/diandraescobar/)
 - **Data Collection Window:** May 10, 2026 – June 14, 2026
 - **Date of Extraction:** June 14, 2026
 - **Annotation:** Diandra Escobar explores the strategy behind corporate executive presence on LinkedIn, detailing how to turn a founder’s raw ideas into authority-building content.
@@ -60,8 +60,11 @@ Here is a curated list of 10 high-signal experts, creators, and podcast hosts wh
 
 **8. Justin Rowe**
 - **Role/Background:** Founder and CMO of Impactable.
-- **Why to Follow:** While heavily rooted in LinkedIn Ads, Justin is a master at teaching a "hybrid" model—showing how to take top-performing organic thought-leadership posts from founders and amplify them using LinkedIn Thought Leader Ads.
 - **Platform:** LinkedIn / YouTube
+- **Data Collection Window:** April 1, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Justin Rowe analyzes the interplay between organic reach and paid amplification, specifically detailing how to boost successful organic founder posts using LinkedIn Thought Leader Ads.
+- **Why to Follow:** While heavily rooted in LinkedIn Ads, Justin is a master at teaching a "hybrid" model—showing how to take top-performing organic thought-leadership posts from founders and amplify them using LinkedIn Thought Leader Ads.
 
 **9. Collin Cadmus**
 - **Role/Background:** Former VP of Sales at Aircall and Doctor.com, B2B Growth Advisor.
