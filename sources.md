@@ -60,7 +60,7 @@ Here is a curated list of 10 high-signal experts, creators, and podcast hosts wh
 
 **8. Justin Rowe**
 - **Role/Background:** Founder and CMO of Impactable.
-- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/justin-rowe-4043339b/) / [YouTube Channel](https://www.youtube.com/user/JWRazzle)
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/justin-rowe-4043339b/) / [YouTube Channel](https://www.youtube.com/@Impactable-B2B-Agency)
 - **Data Collection Window:** April 1, 2026 – June 14, 2026
 - **Date of Extraction:** June 14, 2026
 - **Annotation:** Justin Rowe analyzes the interplay between organic reach and paid amplification, specifically detailing how to boost successful organic founder posts using LinkedIn Thought Leader Ads.
